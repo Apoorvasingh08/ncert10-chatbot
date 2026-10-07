@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+faiss-cpu
+pymupdf
+pypdf
+sentence-transformers
+python-dotenv
+requests
