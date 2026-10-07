@@ -3,11 +3,10 @@ uvicorn
 streamlit
 langchain
 langchain-community
+langchain-core
 langchain-groq
-langchain-openai
+langchain-huggingface
 faiss-cpu
-pymupdf
-pypdf
 sentence-transformers
 python-dotenv
 requests
