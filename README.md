@@ -24,5 +24,5 @@ This project is a doubt-solving chatbot for the NCERT Class 10 Science textbook,
 
 **1. Clone the repository**
 ```bash
-git clone <YOUR_GITHUB_REPO_URL_HERE>
+git clone https://github.com/Apoorvasingh08/ncert10-chatbot
 cd prepzy_Project
